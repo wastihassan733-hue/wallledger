@@ -47,7 +47,7 @@ window.WL_I18N = (function(){
         +'<p>WallLedger collects, cleans, and organizes information from all your systems and turns it into clear reports and strategic recommendations.</p>'
         +'<p class="we-label" style="margin-top:10px">What We Do</p>'
         +'<div class="we-do-grid"><ul>'
-        +'<li>Full-service bookkeeping</li><li>Tax planning &amp; optimization</li><li>Accounting cleanup</li><li>Management accounting</li>'
+        +'<li>Full-service bookkeeping</li><li>Tax optimization</li><li>Accounting cleanup</li><li>Management accounting</li>'
         +'<li>Cost calculation</li><li>Budgeting &amp; forecasting</li><li>New systems implementation</li><li>Data migration &amp; report setup</li>'
         +'</ul></div></div></div>'
     },
@@ -188,7 +188,7 @@ window.WL_I18N = (function(){
         +'<p>WallLedger собирает, очищает и структурирует информацию из всех ваших систем и превращает её в понятные отчёты и стратегические рекомендации.</p>'
         +'<p class="we-label" style="margin-top:10px">Что мы делаем</p>'
         +'<div class="we-do-grid"><ul>'
-        +'<li>Полный бухгалтерский учёт</li><li>Налоговое планирование и оптимизация</li><li>Восстановление учёта</li><li>Управленческий учёт</li>'
+        +'<li>Полный бухгалтерский учёт</li><li>Налоговая оптимизация</li><li>Восстановление учёта</li><li>Управленческий учёт</li>'
         +'<li>Расчёт себестоимости</li><li>Бюджетирование и прогнозирование</li><li>Внедрение новых систем</li><li>Миграция данных и настройка отчётности</li>'
         +'</ul></div></div></div>'
     },
@@ -329,7 +329,7 @@ window.WL_I18N = (function(){
         +'<p>WallLedger recopila, depura y organiza la información de todos tus sistemas y la convierte en informes claros y recomendaciones estratégicas.</p>'
         +'<p class="we-label" style="margin-top:10px">Qué hacemos</p>'
         +'<div class="we-do-grid"><ul>'
-        +'<li>Contabilidad integral</li><li>Planificación y optimización fiscal</li><li>Regularización contable</li><li>Contabilidad de gestión</li>'
+        +'<li>Contabilidad integral</li><li>Optimización fiscal</li><li>Regularización contable</li><li>Contabilidad de gestión</li>'
         +'<li>Cálculo de costes</li><li>Presupuestos y previsiones</li><li>Implementación de nuevos sistemas</li><li>Migración de datos e informes</li>'
         +'</ul></div></div></div>'
     },
